@@ -7,8 +7,11 @@
 	text-align : left;
 }
 .bg{
-	background : #f8f8f8;
-	text-align : center;
+	background:#f8f8f8;
+	text-align:center;
+}
+.book{
+	align:center;
 }
 .price{
 	color : white;
