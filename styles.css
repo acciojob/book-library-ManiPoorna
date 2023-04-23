@@ -1,4 +1,22 @@
 /*  your css code here. If applicable */
-.book{
-	align : "center";
+/* *{
+	background : #f8f8f8;
+} */
+.book-library{
+/* 	align : "center"; */
+	text-align : left;
+}
+.bg{
+	background : #f8f8f8;
+	text-align : center;
+}
+.price{
+	color : white;
+	background: #2ecc71;
+	padding : 10px;
+	border-radius : 5px;
+}
+.author{
+	text-align : left;
+	color : #777777;
 }
